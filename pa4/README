@@ -1,0 +1,5 @@
+This program is split into two parts. First, the encoder takes in a file and
+encodes it using the concept of the huffman tree and queue. The decoder then
+takes the encoded file and decopresses it back into a copy of the original file inputted for the encoder. The decoding process involves using the huffman tree, as well as using a stack. My partner, Siri Bandaru, was responsible for the 
+encoding part of the program. Therefore, she did the encoding.c, histogram, and parts of the queue. I was responsible for the decoding part of the program, so Idid the decoding.c and stack. Siri decided to combine the queue code into the 
+huffman.c file, so she wrote queue code of the huffman file, while I wrote most of the actual huffman.c methods from the original huffman.h file given to us. 
