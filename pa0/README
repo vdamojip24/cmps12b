@@ -1,0 +1,6 @@
+I am submitting the lrc.c source file and lrc executable file. 
+The lrc program simulates the left right center game. The program takes in a 
+seed for the psuedorandom number generator and the number of players in the
+game. After simulating the dice rolls for each player, the results of the round for each player are printed. The game continues play until only one player has
+money left, and the money in the pot goes to the winning player.
+
